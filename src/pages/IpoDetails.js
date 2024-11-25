@@ -1,13 +1,13 @@
 import React from "react";
 import { useNavigate, useParams } from "react-router-dom";
-import { AiOutlineArrowLeft } from "react-icons/ai"; // Navigation Arrow Icon
-import { FaFilePdf } from "react-icons/fa"; // PDF Icon for Download
+import { AiOutlineArrowLeft } from "react-icons/ai"; 
+import { FaFilePdf } from "react-icons/fa";
 import ipoData from "../mockData/ipos.json";
 import IpoDetailsCard from "../components/IpoDetailsCard";
 import IpoTimeline from "../components/IpoTimeline";
 
 const IPODetails = () => {
-  const { id } = useParams(); // Get the IPO ID from URL
+  const { id } = useParams(); 
   const navigate = useNavigate();
   const ipoDetails = ipoData.find((ipo) => ipo.id === parseInt(id));
 
