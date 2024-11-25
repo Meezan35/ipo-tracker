@@ -5,6 +5,7 @@ import { FaFilePdf } from "react-icons/fa";
 import ipoData from "../mockData/ipos.json";
 import IpoDetailsCard from "../components/IpoDetailsCard";
 import IpoTimeline from "../components/IpoTimeline";
+import About from "../components/About";
 
 const IPODetails = () => {
   const { id } = useParams(); 
@@ -51,9 +52,11 @@ const IPODetails = () => {
   </div>
       </div>
 
-      <h1 className="text-navy text-3xl font-bold mb-6">IPO Details</h1>
+      
+      <h2 className="text-lg font-bold text-navy mb-4">IPO Details</h2>
       <IpoDetailsCard details={ipoDetails} />
       <IpoTimeline timeline={ipoDetails.timeline} />
+      <About title = {ipoDetails?.companyName} content={ipoDetails.details}/>
     </div>
   );
 };
