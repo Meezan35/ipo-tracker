@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "companyName": "GO AIR",
+      "issueDate": "4th - 7th Oct 2022",
+      "issueSize": "₹3600 Crores",
+      "priceRange": "₹50-60",
+      "minInvestment": "₹50,000",
+      "quantity": "100 Shares/5 Lots",
+      "details": "GO AIR is an Indian airline that is offering its IPO to fund new projects and operations."
+    },
+    {
+      "id": 2,
+      "companyName": "BAJAJ ENERGY",
+      "issueDate": "4th - 7th Oct 2022",
+      "issueSize": "₹3600 Crores",
+      "priceRange": "₹50-60",
+      "minInvestment": "₹50,000",
+      "quantity": "100 Shares/5 Lots",
+      "details": "BAJAJ ENERGY is a leading power generation company launching an IPO to fund its new projects."
+    },
+    {
+      "id": 3,
+      "companyName": "OYO",
+      "issueDate": "To be announced",
+      "issueSize": "₹3600 Crores",
+      "priceRange": "₹50-60",
+      "minInvestment": "₹50,000",
+      "quantity": "100 Shares/5 Lots",
+      "details": "OYO is a popular hotel chain, planning its IPO to expand operations globally."
+    }
+  ]
+  
