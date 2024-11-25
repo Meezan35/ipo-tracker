@@ -2,32 +2,42 @@
     {
       "id": 1,
       "companyName": "GO AIR",
-      "issueDate": "4th - 7th Oct 2022",
-      "issueSize": "₹3600 Crores",
-      "priceRange": "₹50-60",
-      "minInvestment": "₹50,000",
-      "quantity": "100 Shares/5 Lots",
-      "details": "GO AIR is an Indian airline that is offering its IPO to fund new projects and operations."
+      "issueDate": "5th - 10th Nov 2024",
+      "issueSize": "₹4,500 Crores",
+      "priceRange": "₹70-90",
+      "minInvestment": "₹60,000",
+      "quantity": "120 Shares/6 Lots",
+      "details": "GO AIR, one of India's prominent airlines, is raising funds for fleet expansion and debt repayment through its IPO."
     },
     {
       "id": 2,
       "companyName": "BAJAJ ENERGY",
-      "issueDate": "4th - 7th Oct 2022",
-      "issueSize": "₹3600 Crores",
-      "priceRange": "₹50-60",
-      "minInvestment": "₹50,000",
-      "quantity": "100 Shares/5 Lots",
-      "details": "BAJAJ ENERGY is a leading power generation company launching an IPO to fund its new projects."
+      "issueDate": "15th - 20th Nov 2024",
+      "issueSize": "₹3,800 Crores",
+      "priceRange": "₹55-75",
+      "minInvestment": "₹52,000",
+      "quantity": "105 Shares/5 Lots",
+      "details": "BAJAJ ENERGY is focusing on renewable energy projects and scaling up operations via IPO funding."
     },
     {
       "id": 3,
       "companyName": "OYO",
       "issueDate": "To be announced",
-      "issueSize": "₹3600 Crores",
-      "priceRange": "₹50-60",
-      "minInvestment": "₹50,000",
-      "quantity": "100 Shares/5 Lots",
-      "details": "OYO is a popular hotel chain, planning its IPO to expand operations globally."
+      "issueSize": "₹5,000 Crores",
+      "priceRange": "₹80-100",
+      "minInvestment": "₹75,000",
+      "quantity": "150 Shares/7 Lots",
+      "details": "OYO, a global hotel chain giant, is targeting its IPO to support technology development and market expansion."
+    },
+    {
+      "id": 4,
+      "companyName": "ZOMATO",
+      "issueDate": "1st - 5th Dec 2024",
+      "issueSize": "₹6,000 Crores",
+      "priceRange": "₹90-110",
+      "minInvestment": "₹85,000",
+      "quantity": "170 Shares/8 Lots",
+      "details": "ZOMATO is raising funds via IPO to strengthen delivery infrastructure and expand into new international markets."
     }
   ]
   
