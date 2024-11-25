@@ -2,42 +2,102 @@
     {
       "id": 1,
       "companyName": "GO AIR",
+      "subTitle": "Indian Airline Services",
       "issueDate": "5th - 10th Nov 2024",
       "issueSize": "₹4,500 Crores",
       "priceRange": "₹70-90",
       "minInvestment": "₹60,000",
       "quantity": "120 Shares/6 Lots",
-      "details": "GO AIR, one of India's prominent airlines, is raising funds for fleet expansion and debt repayment through its IPO."
+      "lotSize": "120 Shares",
+      "listedPrice": "₹85",
+      "listingGains": "₹10",
+      "gainPercentage": "13%",
+      "listedOn": "12th Nov 2024",
+      "details": "GO AIR, one of India's prominent airlines, is raising funds for fleet expansion and debt repayment through its IPO.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/8/86/GoAir_Logo.png",
+      "timeline": [
+        { "label": "Bidding starts", "date": "12 Dec 2023", "completed": true },
+        { "label": "Bidding ends", "date": "15 Dec 2023", "completed": true },
+        { "label": "Allotment finalization", "date": "18 Dec 2023", "completed": false },
+        { "label": "Refund initiation", "date": "18 Dec 2023", "completed": false },
+        { "label": "Demat transfer", "date": "18 Dec 2023", "completed": false },
+        { "label": "Listing date", "date": "21 Dec 2023", "completed": false }
+      ]
     },
     {
       "id": 2,
       "companyName": "BAJAJ ENERGY",
+      "subTitle": "Renewable Energy Projects",
       "issueDate": "15th - 20th Nov 2024",
       "issueSize": "₹3,800 Crores",
       "priceRange": "₹55-75",
       "minInvestment": "₹52,000",
       "quantity": "105 Shares/5 Lots",
-      "details": "BAJAJ ENERGY is focusing on renewable energy projects and scaling up operations via IPO funding."
+      "lotSize": "105 Shares",
+      "listedPrice": "₹65",
+      "listingGains": "₹5",
+      "gainPercentage": "8%",
+      "listedOn": "23rd Nov 2024",
+      "details": "BAJAJ ENERGY is focusing on renewable energy projects and scaling up operations via IPO funding.",
+      "logo": "https://bajajenergy.com/bajajenergy_assets/s3fs-public/images/Bajaj_Energy_logo.jpg",
+      "timeline": [
+        { "label": "Bidding starts", "date": "10 Jan 2024", "completed": true  },
+        { "label": "Bidding ends", "date": "14 Jan 2024", "completed": true  },
+        { "label": "Allotment finalization", "date": "17 Jan 2024", "completed": true  },
+        { "label": "Refund initiation", "date": "17 Jan 2024", "completed": true  },
+        { "label": "Demat transfer", "date": "18 Jan 2024", "completed": true  },
+        { "label": "Listing date", "date": "21 Jan 2024", "completed": true  }
+      ]
     },
     {
       "id": 3,
       "companyName": "OYO",
+      "subTitle": "Global Hotel Chain",
       "issueDate": "To be announced",
       "issueSize": "₹5,000 Crores",
       "priceRange": "₹80-100",
       "minInvestment": "₹75,000",
       "quantity": "150 Shares/7 Lots",
-      "details": "OYO, a global hotel chain giant, is targeting its IPO to support technology development and market expansion."
+      "lotSize": "150 Shares",
+      "listedPrice": "₹95",
+      "listingGains": "₹15",
+      "gainPercentage": "18%",
+      "listedOn": "To be announced",
+      "details": "OYO, a global hotel chain giant, is targeting its IPO to support technology development and market expansion.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OYO_Rooms_%28logo%29.png/1200px-OYO_Rooms_%28logo%29.png",
+      "timeline": [
+        { "label": "Bidding starts", "date": "To be announced", "completed": false },
+        { "label": "Bidding ends", "date": "To be announced", "completed": false },
+        { "label": "Allotment finalization", "date": "To be announced", "completed": false },
+        { "label": "Refund initiation", "date": "To be announced", "completed": false },
+        { "label": "Demat transfer", "date": "To be announced", "completed": false },
+        { "label": "Listing date", "date": "To be announced", "completed": false }
+      ]
     },
     {
       "id": 4,
       "companyName": "ZOMATO",
+      "subTitle": "Food Delivery Service",
       "issueDate": "1st - 5th Dec 2024",
       "issueSize": "₹6,000 Crores",
       "priceRange": "₹90-110",
       "minInvestment": "₹85,000",
       "quantity": "170 Shares/8 Lots",
-      "details": "ZOMATO is raising funds via IPO to strengthen delivery infrastructure and expand into new international markets."
+      "lotSize": "170 Shares",
+      "listedPrice": "₹105",
+      "listingGains": "₹15",
+      "gainPercentage": "14%",
+      "listedOn": "10th Dec 2024",
+      "details": "ZOMATO is raising funds via IPO to strengthen delivery infrastructure and expand into new international markets.",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Zomato_logo.png/800px-Zomato_logo.png",
+      "timeline": [
+        { "label": "Bidding starts", "date": "5 Dec 2024", "completed": false },
+        { "label": "Bidding ends", "date": "10 Dec 2024", "completed": false },
+        { "label": "Allotment finalization", "date": "12 Dec 2024", "completed": false },
+        { "label": "Refund initiation", "date": "12 Dec 2024", "completed": false },
+        { "label": "Demat transfer", "date": "13 Dec 2024", "completed": false },
+        { "label": "Listing date", "date": "15 Dec 2024", "completed": false }
+      ]
     }
   ]
   

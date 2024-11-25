@@ -8,16 +8,24 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
-      <Header />
-      <main>
-        <Routes>
-          <Route path="/" element={<IPOList />} />
-          <Route path="/ipo/:id" element={<IPODetails />} />
-        </Routes>
-      </main>
-      <Footer />
-    </Router>
+    <div className="flex flex-col min-h-screen">
+      {/* Router */}
+      <Router>
+        {/* Header */}
+        <Header />
+
+        {/* Main Content */}
+        <main className="flex-1">
+          <Routes>
+            <Route path="/" element={<IPOList />} />
+            <Route path="/ipo-details/:id" element={<IPODetails />} />
+          </Routes>
+        </main>
+
+        {/* Footer */}
+        <Footer />
+      </Router>
+    </div>
   );
 }
 
