@@ -5,10 +5,15 @@ module.exports = {
   ],
   theme: {
     extend: {
-      fontFamily: {
-        sans: ['Sora', 'sans-serif'], 
+      colors: {
+        navy: '#1D2540',  
+        orange: '#FF7A00' 
       },
+      fontFamily: {
+        sans: ['Sora', 'sans-serif']
+      }
     },
   },
   plugins: [],
-};
+}
+

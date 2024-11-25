@@ -2,7 +2,8 @@ import React from 'react'
 
 const IpoList = () => {
   return (
-    <div>IpoList</div>
+    <div>IpoList Hello</div>
+    
   )
 }
 
